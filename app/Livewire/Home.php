@@ -10,4 +10,17 @@ class Home extends Component
     {
         return view('livewire.home')->layout('layouts.app');
     }
+
+    public function store(){
+        
+    }
+
+    public function update(){
+
+    }
+
+    public function delete(){
+
+    }
+
 }
